@@ -1,0 +1,39 @@
+ZWEI-EBENEN-VORLAGE  ·  Kursmaterial Modul „Grundlagen"
+
+Fall: ........................................................................
+
+Schreib links, was passiert. Schreib rechts, wer es macht. Links zuerst.
+
+
+  Prozess-Ebene: Was passiert          |  Workflow-Ebene: Wer macht was wie
+  --------------------------------------+--------------------------------------
+                                        |
+                                        |
+                                        |
+                                        |
+                                        |
+                                        |
+                                        |
+                                        |
+                                        |
+                                        |
+  --------------------------------------+--------------------------------------
+
+  Prozess-Ebene: ____ Schritte     |     Workflow-Ebene: ____ Schritte
+  Differenz: ____
+
+
+So arbeitest du damit
+---------------------
+· Die Vorlage ist absichtlich leer. Sie nimmt dir die Formatarbeit ab, nicht die
+  Denkarbeit.
+· Zu wenig Zeilen? Schreib welche dazu. Die Anzahl der Striche ist kein Ziel.
+· Die zwei Spalten müssen nebeneinander lesbar bleiben. Wenn dein Programm das
+  schlecht kann, nimm zwei Abschnitte untereinander, mit denselben Überschriften.
+· Die untere Zeile bleibt zunächst leer. Wir füllen sie, wenn beide Spalten stehen.
+· Willst du einen zweiten Fall beschreiben, kopiere diese Datei und trag oben den
+  neuen Fall ein. Die Vorlage bleibt dieselbe.
+
+Diese Datei ist bearbeitbarer Text ohne Formatierung, damit sie in jedem Programm
+funktioniert. Öffne sie mit dem Editor deiner Wahl, oder kopiere den Rahmen in
+Word, Google Docs, Notion, was du magst.

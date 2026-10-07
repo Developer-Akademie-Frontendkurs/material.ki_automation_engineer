@@ -1,0 +1,64 @@
+ERHEBUNGSBOGEN  ·  Kursmaterial Modul „Grundlagen"
+
+Mein Prozess: ................................................................
+
+Die meisten Felder kennst du aus deiner Mappe Auslagenerstattung, dort verteilt auf
+fünf Blätter. Neu sind: Zwei Fehlerpfade, Freitext-Stelle, Daten erfunden.
+Füll sie beim oder nach dem Gespräch aus. Was du nicht weißt, schreib als „unklar" hin.
+Alle Namen, Nummern und Beträge sind ausgedacht.
+
+
+Fall (3–5 Sätze)
+  ..........................................................................
+  ..........................................................................
+  ..........................................................................
+
+Trigger                 ..............................  Familie: etwas kommt an / die Uhr / jemand stößt an
+Rollen                  ..............................
+Beteiligte ohne Bahn    ..............................  (Owner: wer setzt die Regel · Receiver: wer
+                                                        bekommt das Ergebnis · Supplier: wer liefert
+                                                        den Input?)
+System-Bahn             ..............................  (welches System, welche zwei bis drei Kästen,
+                                                        kommst du selbst heran?)
+Entscheidungen          ..............................  (hängen sie voneinander ab oder nicht?)
+Enden / Ergebnisarten   ..............................  (ein Ende, wie viele Ausgänge?)
+Besonderheiten          ..............................  (Schleife? Bündel-Zeile? Nein-Weg?)
+Zwei Fehlerpfade        ..............................  (was geht schief: etwas fehlt, niemand antwortet …)
+Freitext-Stelle         ..............................  (wo steht Text, den jemand lesen muss:
+                                                        Bemerkung, Begründung, Betreff …)
+Daten erfunden          ja / nein                       (Namen, Nummern, Beträge ausgedacht?)
+
+Durchläufe pro Monat    ..............................
+Zeit je Durchlauf       ..............................  (je Rolle getrennt)
+Bau / Wartung           ..............................  (Wartung als Posten jedes Jahr)
+Automatisierbar         ..............................  (Prozent je Rolle, Urteile zählen 0 %)
+Beim Menschen bleibt    ..............................  (Entscheidung · Kommunikation · Follow-up ·
+                                                        Eskalation · Wartung)
+
+Rechnung                manuell ..... h/Jahr · einsparbar ..... h/Jahr · Jahr 1 ..... · ab Jahr 2 .....
+Urteil                  ..........................................................................
+                        ..........................................................................
+Testfälle               ..........................................................................
+                        (ein Pfad ist ein Testfall, auch jeder Fehlerpfad)
+Bus-Faktor              ..........................................................................
+                        (wer übernimmt, wenn ich morgen ausfalle?)
+
+Wo ich hängen geblieben bin
+  ..........................................................................
+  ..........................................................................
+
+
+So arbeitest du damit
+---------------------
+· Die Vorlage ist absichtlich leer. Sie nimmt dir die Formatarbeit ab, nicht die
+  Denkarbeit.
+· Zu wenig Platz? Schreib Zeilen dazu. Die Anzahl der Punkte ist kein Ziel.
+· Schätzungen sind erlaubt. Schreib dazu, dass es eine ist und woher sie kommt.
+· „unklar" ist eine Antwort. Eine Stelle, die keiner erklären kann, ist ein Befund
+  über den Prozess, keine Lücke in deiner Arbeit.
+· Der Bogen gehört neben deine neue Prozess-Mappe, nicht in die Mappe
+  Auslagenerstattung.
+
+Diese Datei ist bearbeitbarer Text ohne Formatierung, damit sie in jedem Programm
+funktioniert. Öffne sie mit dem Editor deiner Wahl, oder kopiere den Rahmen in
+Word, Google Docs, Notion, was du magst.

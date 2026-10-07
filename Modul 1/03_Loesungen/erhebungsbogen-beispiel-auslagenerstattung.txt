@@ -1,0 +1,73 @@
+ERHEBUNGSBOGEN · BEISPIEL  ·  Kursmaterial Modul „Grundlagen"
+
+Mein Prozess: Auslagenerstattung, unser gemeinsamer Fall
+
+So kann ein ausgefüllter Bogen aussehen. Eine Lösung, nicht die Lösung: dein Prozess
+hat andere Felder, die schwer sind, und andere, die leer bleiben. Alles stammt aus dem
+Fall-Blatt (drei Gespräche) und den Ergebnissen deiner Mappe Auslagenerstattung.
+Lies es erst, wenn dein eigener Bogen steht.
+
+
+Fall (3–5 Sätze)
+  Mitarbeitende reichen Auslagen mit Quittung über ein Formular ein. Das Backoffice
+  prüft jeden Antrag und überweist. Über 100 € muss der Manager freigeben, lehnt er ab,
+  schreibt er eine Begründung. Erhoben in drei Gesprächen: Mitarbeiter, Backoffice,
+  Manager.
+
+Trigger                 Mitarbeiter klickt im Formular auf Absenden
+                        Familie: jemand stößt an
+Rollen                  Mitarbeiter · Backoffice · Manager
+Beteiligte ohne Bahn    keine. Owner (setzt die 100 €) ist der Manager, Receiver und
+                        Supplier ist der Mitarbeiter, alle haben schon eine Bahn
+System-Bahn             Erstattungssystem: Formular annehmen · Antrag ans Backoffice
+                        stellen · selbst herankommen: unklar
+Entscheidungen          Betrag über 100 €? → Freigabe erteilt?
+                        hängen voneinander ab: die zweite gibt es nur nach „ja"
+Enden / Ergebnisarten   ein Ende (Mitarbeiter ist informiert) · drei Ergebnisarten:
+                        direkt erstattet · nach Freigabe erstattet · abgelehnt mit Begründung
+Besonderheiten          Nein-Weg: die Ablehnung, ein vorgesehenes Ergebnis
+                        Bündel-Zeile: „zurück ans Backoffice → Überweisung → Info"
+                        Schleife: Quittung nachgereicht, dann wird neu geprüft
+Zwei Fehlerpfade        1. Quittung fehlt → Backoffice fordert sie nach, der Antrag
+                           bleibt liegen (Gespräch 2)
+                        2. unklar: der Fall nennt nur einen. Rückfrage ans Backoffice:
+                           was passiert, wenn der Manager sich nicht meldet?
+Freitext-Stelle         die Begründung der Ablehnung (schreibt der Manager)
+Daten erfunden          ja                              (das Fall-Blatt sagt es selbst)
+
+Durchläufe pro Monat    60, davon 15 über 100 €
+Zeit je Durchlauf       Backoffice 6–10 min, gerechnet 8 · Manager 3 min
+                        (Schätzung: „keine dreiviertel Stunde" für 15) · Mitarbeiter:
+                        nicht erhoben
+Bau / Wartung           Bau 40 h einmalig · Wartung 18 h jedes Jahr
+Automatisierbar         Backoffice 80 % · Manager 0 % (er urteilt)
+Beim Menschen bleibt    die Manager-Freigabe · die Begründung einer Ablehnung · das
+                        Nachfassen, wenn die Quittung fehlt · die Eskalation · die
+                        Wartung der Automatisierung
+
+Rechnung                manuell 105 h/Jahr · einsparbar 77 h/Jahr · Jahr 1 +19 h ·
+                        ab Jahr 2 +59 h/Jahr
+Urteil                  Automatisierungskandidat. Von 77 gesparten Stunden gehen 18
+                        für Wartung wieder weg, jedes Jahr.
+Testfälle               100 € → direkt erstattet
+                        480 €, genehmigt → nach Freigabe erstattet
+                        480 €, abgelehnt → abgelehnt mit Begründung
+                        Quittung fehlt → Nachforderung, Antrag bleibt liegen
+                        (ein Pfad ist ein Testfall, auch jeder Fehlerpfad)
+Bus-Faktor              unbekannt. Der Fall nennt eine Stimme im Backoffice: wer
+                        übernimmt, wenn sie fehlt?
+
+Wo ich hängen geblieben bin
+  Der zweite Fehlerpfad: keiner der drei konnte ihn nennen.
+  Der Zugang zum Erstattungssystem: wer gibt ihn, und darf ich dort testen?
+
+
+Was du an diesem Beispiel sehen kannst
+--------------------------------------
+· Vier Stellen sind offen: zweimal „unklar", einmal „nicht erhoben", einmal
+  „unbekannt". Das ist kein schlechter Bogen, das sind vier Rückfragen.
+· Der Fehlerpfad „Quittung fehlt" hat einen Testfall, obwohl er im Bild deiner Mappe
+  Auslagenerstattung nicht gezeichnet ist. Im Abschlussprojekt gehört er ins Bild.
+· Die Ablehnung steht unter Besonderheiten, nicht unter den Fehlerpfaden: sie ist ein
+  Nein-Weg, ein vorgesehenes Ergebnis.
+· Jede Zahl hat eine Herkunft. Wo sie geschätzt ist, steht es dabei.
